@@ -7,6 +7,7 @@ Welcome to my Github profile! I'm passionate about embedded systems and love div
 ### Programming Languages
 - C/C++
 - Assembly Language
+- Python
 
 ### Frameworks & Libraries
 - FreeRTOS
@@ -20,7 +21,7 @@ Welcome to my Github profile! I'm passionate about embedded systems and love div
 - NXP LPC21xx
 
 ### Tools & Technologies
-- Embedded C
+- STM32
 - Git
 - Keil
 - MPLAB X IDE
